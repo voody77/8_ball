@@ -1,29 +1,39 @@
 # Приложение «Волшебный шар»
 *Создано для ответов на вопросы, когда вам сложно самому ответить.*
 
-Автор:  [voody77](https://github.com/voody77), 2019г.
+<p align="center">
+  <b>О  шаре:</b><br>
+  <a href="https://github.com/voody77">Автор</a> |
+  <a href="https://ru.wikipedia.org/wiki/Magic_8_ball">описание</a> |
+  <a href="https://rubyrush.ru/steps/setup-ruby.html">Установка ruby</a>
+  <br><br>
+  
+  <img width="400" height="400" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Magic_eight_ball.png">
+</p>
 
-![8ball](https://upload.wikimedia.org/wikipedia/commons/e/eb/Magic_eight_ball.png)
-
-[Описание на WikiPedia_RU](https://ru.wikipedia.org/wiki/Magic_8_ball)
 
 
 
 #### Запуск приложения:
 1. Скачать архив или сделать:
-
-    `git pull`
+```
+git pull
+```
     
  2. Распаковать скачанную папку или перейти в католог приложения
  
  3. Проверить установлен ли `ruby` у вас в системе:
- 
-    `ruby -v`
-    
-    если у вас ошибка  — установите `ruby`  
+```
+ruby -v
+```
+если у вас ошибка  — установите `ruby`
+
  4. выполните команду для запуска приложения:
- 
-    `ruby 8_ball.rb`
+``` 
+ruby 8_ball.rb
+``` 
+
+
     
 Надеюсь ответы помогут вам!
 
