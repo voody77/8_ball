@@ -26,7 +26,7 @@ git pull
 ```
 ruby -v
 ```
-если у вас ошибка  — установите `ruby`
+если у вас ошибка —  <a href="https://rubyrush.ru/steps/setup-ruby.html">Установка ruby</a> 
 
  4. выполните команду для запуска приложения:
 ``` 
