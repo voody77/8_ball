@@ -8,7 +8,8 @@
   <a href="https://rubyrush.ru/steps/setup-ruby.html">Установка ruby</a>
   <br><br>
 
-  <img width="400" height="400" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Magic_eight_ball.png"></p>
+  <img width="400" height="400" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Magic_eight_ball.png">
+</p>
 
 
 
